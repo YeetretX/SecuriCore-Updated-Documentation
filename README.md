@@ -421,5 +421,3 @@ catch (Exception ex)
 ```
 
 ---
-
-For further details, refer to the [SecuriCore GitHub repository](https://github.com/your-repository).
