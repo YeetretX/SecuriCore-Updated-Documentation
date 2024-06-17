@@ -377,6 +377,7 @@ else
 ### InitializeBluescreen
 
 Triggers a bluescreen on the machine (requires administrative privileges).
+Note: Any usage of this in any real system is prohibited and not recommended. Please have proper permissions to do so.
 
 **Usage:**
 
@@ -400,6 +401,8 @@ catch (Exception ex)
 ### InitializeDisk
 
 Overwrites the MBR, essentially breaking the system OS (requires administrative privileges).
+
+Note: Any usage of this in any real system is prohibited and not recommended. Please have proper permissions to do so.
 
 **Usage:**
 
